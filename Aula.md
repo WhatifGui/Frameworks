@@ -33,3 +33,11 @@ Desenvolvimento de software baseado em componentes já preéxistentes, adquirido
 - Codigo limpo e facilmente adaptavel
 - Capacidade de se concentrar na escrita de codigo especifico para o projeto
 - Possibilidade de extensão.
+
+## Frameworks e suas areas 
+
+Existem frameworks para web, mobile e bigdata, para versão web são muitos utilizados Angular e Laravel pela linguagem PHP e Spring e JSF pelo Java. Para mobile tem Ionic, Flutter e Xamarin
+
+## Resumo da Aula 01 do portal
+
+Apenas uma pincelada em tipos de frameworks e alguns recursos, conceitos e definições do que é uma framework, componente e API.
