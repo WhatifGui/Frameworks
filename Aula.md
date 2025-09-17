@@ -41,3 +41,7 @@ Existem frameworks para web, mobile e bigdata, para versão web são muitos util
 ## Resumo da Aula 01 do portal
 
 Apenas uma pincelada em tipos de frameworks e alguns recursos, conceitos e definições do que é uma framework, componente e API.
+
+## Spring
+
+Spring é um framework para versão web do java, ele auxilia e facilita a escrever um codigo para versão web. Ele possui fortemente Injeção de dependência e Inversão de Controle onde forma a estrutura e controle do spring sobre o código.
