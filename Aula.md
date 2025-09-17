@@ -45,3 +45,5 @@ Apenas uma pincelada em tipos de frameworks e alguns recursos, conceitos e defin
 ## Spring
 
 Spring é um framework para versão web do java, ele auxilia e facilita a escrever um codigo para versão web. Ele possui fortemente Injeção de dependência e Inversão de Controle onde forma a estrutura e controle do spring sobre o código.
+
+Alguns controles ficam a cargos do Spring container gerenciar. IoC (Inversão de controle). A logica de criação e ciclo dos objetos é passada para o Spring container (por isso inversão de controle). Além que o Spring lhe permite uma programação orientada a aspectos, ou seja, lhe permite você concentrar funcionalidades como logging, segurança ou gerenciamento de transações em somente um lugar permitindo então a redução de duplicação e facilita a manutenção.
