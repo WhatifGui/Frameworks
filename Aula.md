@@ -47,3 +47,9 @@ Apenas uma pincelada em tipos de frameworks e alguns recursos, conceitos e defin
 Spring é um framework para versão web do java, ele auxilia e facilita a escrever um codigo para versão web. Ele possui fortemente Injeção de dependência e Inversão de Controle onde forma a estrutura e controle do spring sobre o código.
 
 Alguns controles ficam a cargos do Spring container gerenciar. IoC (Inversão de controle). A logica de criação e ciclo dos objetos é passada para o Spring container (por isso inversão de controle). Além que o Spring lhe permite uma programação orientada a aspectos, ou seja, lhe permite você concentrar funcionalidades como logging, segurança ou gerenciamento de transações em somente um lugar permitindo então a redução de duplicação e facilita a manutenção.
+
+## Hibernate
+
+É um framework que age como intermediario entre a aplicação e o banco de dados, mapeando os objetos do código transformando-los em um banco relacional clássico.
+
+ - HQL (Hibernate Query Language) por mais que age como um intermediador e segue parametros de SQL, são coisas  distintas e conforme vão se aprofundando vão se notando maiores diferenças
